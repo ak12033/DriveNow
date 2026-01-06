@@ -5,15 +5,6 @@ It allows users to browse cars, book rentals, and manage reservations, while adm
 
 ---
 
-## 🌐 Live Demo
-
-- **Frontend:** https://your-frontend-live-link.vercel.app
-- **Backend API:** https://your-backend-live-link.onrender.com
-
-> Replace the above links with your actual deployed URLs.
-
----
-
 ## ✨ Features
 
 ### 👤 User
