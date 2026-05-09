@@ -45,7 +45,7 @@ It allows users to browse cars, book rentals, and manage reservations, while adm
 
 ## 🚀 Live Demo
 
-🌐 Click this: [https://work-hive-1ack.vercel.app](https://drive-now-k2dq.vercel.app/)
+🌐 Click this: [Live Demo](https://drive-now-k2dq.vercel.app/)
 
 ---
 
